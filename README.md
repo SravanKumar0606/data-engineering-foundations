@@ -26,8 +26,6 @@ To understand how raw data is collected, processed, stored, and transformed into
 
 The workflow demonstrates how data moves from different sources through ingestion, transformation, storage, and serving before it becomes useful for analytics and business decisions.
 
-![Data Engineering Workflow](diagrams/data-engineering-workflow.png)
-
 ## Repository Contents
 
 - `article-notes.md` — Article and learning notes
